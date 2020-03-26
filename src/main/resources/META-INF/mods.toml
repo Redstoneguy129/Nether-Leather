@@ -4,7 +4,7 @@ loaderVersion="[28,)"
 modId="netherleather"
 version="1.0"
 displayName="netherleather"
-#updateJSONURL="http://myurl.me/"
+updateJSONURL="https://github.com/Redstoneguy129/Nether-Leather/blob/master/Version.json"
 authors="Redstoneguy129"
 description='''
 Adds leather drops to Zombie Pigmen
