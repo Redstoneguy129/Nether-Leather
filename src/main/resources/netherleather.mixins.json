@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "me.cameronwhyte.mods.netherleather.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["PiglinMixin"],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
