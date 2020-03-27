@@ -1,9 +1,9 @@
 modLoader="javafml"
-loaderVersion="[28,)"
+loaderVersion="[31,)"
 [[mods]]
 modId="netherleather"
 version="1.0"
-displayName="netherleather"
+displayName="Nether Leather"
 updateJSONURL="https://github.com/Redstoneguy129/Nether-Leather/blob/master/Version.json"
 authors="Redstoneguy129"
 description='''
@@ -12,12 +12,12 @@ Adds leather drops to Zombie Pigmen
 [[dependencies.netherleather]]
     modId="forge"
     mandatory=true
-    versionRange="[28,)"
+    versionRange="[31,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.netherleather]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.14.4]"
+    versionRange="[1.15.2]"
     ordering="NONE"
     side="BOTH"
